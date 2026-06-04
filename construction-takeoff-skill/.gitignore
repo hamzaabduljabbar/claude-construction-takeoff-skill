@@ -1,0 +1,7 @@
+outputs/
+inputs/
+*.pdf
+*.xlsx
+*.png
+__pycache__/
+.DS_Store
